@@ -2,9 +2,11 @@
 
 _A sketch plugin to motivate you (ironically) during the working day
 
-##Keyboard shortcut
+### Keyboard shortcut
 
 cmd+shift+y
+
+## The plugin
 
 _This plugin was created using `skpm`. For a detailed explanation on how things work, checkout the [skpm Readme](https://github.com/skpm/skpm/blob/master/README.md)._
 
