@@ -1,0 +1,25 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 3,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "motivate me!",
+      "identifier": "my-command-identifier",
+      "script": "my-command.js",
+      "shortcut": "command shift y"
+    }
+  ],
+  "menu": {
+    "title": "motivateMe",
+    "items": [
+      "my-command-identifier"
+    ]
+  },
+  "version": "0.2.0",
+  "name": "motivateMe",
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+  "author": "Luca Ucciero",
+  "authorEmail": "luca.ucciero@gmail.com\n"
+}
