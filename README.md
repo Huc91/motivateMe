@@ -5,7 +5,11 @@
 
 A sketch plugin to motivate you (ironically) during the working day
 
-### Keyboard shortcut
+### Download
+
+https://github.com/Huc91/motivateMe-/releases
+
+### Use: Keyboard shortcut
 
 cmd+shift+y
 
