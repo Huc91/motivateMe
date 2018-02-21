@@ -1,5 +1,9 @@
 # motivateMe
 
+![logo motivateMe]
+(https://imgur.com/a/xgnTj)
+
+
 _A sketch plugin to motivate you (ironically) during the working day
 
 ### Keyboard shortcut
