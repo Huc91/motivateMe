@@ -10,7 +10,7 @@ A sketch plugin to motivate you (ironically) during the working day
 cmd+shift+y
 
 ### Result 
-Sketch message
+
 ![example](https://media.giphy.com/media/1X7lAx3HfqnMZSbXuC/giphy.gif)
 
 ## The plugin
