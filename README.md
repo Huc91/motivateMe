@@ -3,7 +3,7 @@
 ![logo motivateMe](https://i.imgur.com/1MXefXF.jpg)
 
 
-_A sketch plugin to motivate you (ironically) during the working day
+A sketch plugin to motivate you (ironically) during the working day
 
 ### Keyboard shortcut
 
