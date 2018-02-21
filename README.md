@@ -1,6 +1,6 @@
 # motivateMe
 
-![logo motivateMe](https://i.imgur.com/1MXefXF.jpg)
+![logo motivateMe](https://i.imgur.com/kSUi9u4.jpg)
 
 
 A sketch plugin to motivate you (ironically) during the working day
