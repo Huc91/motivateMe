@@ -9,6 +9,10 @@ A sketch plugin to motivate you (ironically) during the working day
 
 cmd+shift+y
 
+### Result 
+Sketch message
+![example](https://media.giphy.com/media/1X7lAx3HfqnMZSbXuC/giphy.gif)
+
 ## The plugin
 
 _This plugin was created using `skpm`. For a detailed explanation on how things work, checkout the [skpm Readme](https://github.com/skpm/skpm/blob/master/README.md)._
